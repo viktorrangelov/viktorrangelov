@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viktor Rangelov</h1>
 <h3 align="center">A passionate Technical Support Engineer from Bulgaria</h3>
-<img align="right" width:"400" src="https://viktorrangelov.com/img/img.gif">
+
 - 🔭 I’m currently working on js_fundamentals_september_2022 
 
 - 🌱 I’m currently learning **JavaScript, ReactJS**
